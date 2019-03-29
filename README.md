@@ -1,4 +1,4 @@
-# Processe dados dos jogadores do FIFA© 2017 usando Python
+# Processe dados dos jogadores do FIFA© 2017 usando Python # Score: 100%
 
 Utilizando Python você deverá descobrir quais são os melhores jogadores, quais os mais valiosos e quais suas nacionalidades.
 
