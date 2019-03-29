@@ -1,6 +1,7 @@
 .idea/
 .pytest_cache/
 __MACOSX/
+__pycache__/
 venv/
 output.xml
 stdout.txt
