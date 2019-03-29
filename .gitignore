@@ -1,8 +1,10 @@
+__MACOSX
+__pycache__
 .idea/
 .pytest_cache/
-__MACOSX/
-__pycache__/
 venv/
+
+.DS_Store
+main.pyc
 output.xml
 stdout.txt
-.DS_Store
