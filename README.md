@@ -2,12 +2,6 @@
 
 Utilizando Python você deverá descobrir quais são os melhores jogadores, quais os mais valiosos e quais suas nacionalidades.
 
-## Tópicos
-
-Neste desafio você aprenderá:
-
-- Python
-
 ## Requisitos
 
 Você precisará de python 3.6 (ou superior) e do gerenciador de pacotes pip.
